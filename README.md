@@ -1,3 +1,3 @@
 # Studies-Cisco-Packet-Tracer
 
-Baseado no curso do Hardware Redes Brasil. 
+Com base no curso do Hardware Redes Brasil e nas práticas que realizei posteriormente.
